@@ -14,6 +14,8 @@ It is especially useful for Markdown documents produced by ChatGPT deep research
 
 Copyright: Alan Zou worked with Codex GPT
 
+&#26412;&#36719;&#20214;&#21450;&#28304;&#20195;&#30721;&#20165;&#38480;&#20813;&#36153;&#20256;&#25773;&#19982;&#23398;&#20064;&#20351;&#29992;&#65292;&#19981;&#24471;&#29992;&#20110;&#20219;&#20309;&#21830;&#19994;&#29992;&#36884;&#12290;
+
 This software and source code are provided for free sharing and learning only, and may not be used for commercial purposes.
 
 ## Features
