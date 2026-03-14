@@ -14,6 +14,8 @@ It is especially useful for Markdown documents produced by ChatGPT deep research
 
 Copyright: Alan Zou worked with Codex GPT
 
+This software and source code are provided for free sharing and learning only, and may not be used for commercial purposes.
+
 ## Features
 
 - Open local `.md` and `.markdown` files on Windows
