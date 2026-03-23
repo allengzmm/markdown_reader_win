@@ -72,6 +72,13 @@ GitHub Releases download page:
 
 `https://github.com/allengzmm/markdown_reader_win/releases`
 
+Why the installer is not stored directly in the repository:
+
+- GitHub repositories have a 100 MB single-file limit for normal git pushes
+- The Windows installer is currently larger than that limit
+- Source code is stored in the repository, while installers should be distributed through GitHub Releases
+- If the Releases page does not yet contain the installer, it means the package has not been uploaded as a Release asset yet
+
 Release output is published to:
 
 `d:/project/builds/Markdown Reader Win`
