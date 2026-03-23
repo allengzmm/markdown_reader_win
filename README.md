@@ -64,9 +64,22 @@ npm run build
 npm run dist:win
 ```
 
+GitHub repository:
+
+`https://github.com/allengzmm/markdown_reader_win`
+
+GitHub Releases download page:
+
+`https://github.com/allengzmm/markdown_reader_win/releases`
+
 Release output is published to:
 
 `d:/project/builds/Markdown Reader Win`
+
+Current installer:
+
+- `Markdown-Reader-Win-Setup-1.0.0.exe`
+- SHA256: `1CCF9840624F18FE3749DC97C865779E6D0DC68B8CDE059FFD95F183F5BB693B`
 
 ## Notes
 
